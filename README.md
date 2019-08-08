@@ -1,10 +1,3 @@
-# Demo
-
-<a href="http://djminapi.herokuapp.com"> Backend api</a>
-
-<a href="http://djmin.netlify.com"> Main application</a>
-
-
 # Overview
 This application helps the user to Read,Create,Delete,Update the Blog post,The app uses django for the server side and React for the client side of the application.
 
@@ -25,7 +18,7 @@ Please follow the setup instrutions as follow in order to view the complete app 
 
 clone the repositroy:-
 ```
-git clone https://github.com/vinitraj10/Django-React-Blog 
+git clone https://github.com/vinitraj10/django_react_post 
 ```
 Create Virtual env for django-part:-
 ```
